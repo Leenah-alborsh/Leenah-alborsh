@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leenah-alborsh&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
   <img src="https://img.shields.io/badge/From-Gaza-ff7eb3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack-b983ff?style=for-the-badge" />
 </p>
