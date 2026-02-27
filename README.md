@@ -74,14 +74,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leenah-alborsh&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leenah-alborsh&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leenah-alborsh&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=leenah-alborsh&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leenah-alborsh&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Leenah-alborsh&theme=radical&hide_border=true" />
+</p>
 ---
 
 ## ✨ Current Focus
@@ -93,4 +95,6 @@
 ```
 ---
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:b983ff,100:7aa2ff&height=140&section=footer" /> </p> <h3 align="center">⭐ Always Learning | Always Building 💜</h3> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:b983ff,100:7aa2ff&height=140&section=footer" /> </p> <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:b983ff,100:7aa2ff&height=160&section=footer&text=⭐%20Always%20Learning%20%7C%20Always%20Building%20💜&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+</p>
