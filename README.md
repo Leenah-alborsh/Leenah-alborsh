@@ -93,9 +93,4 @@
 ```
 ---
 
-🐍 Contribution Snake (Animated)
-<p align="center"> <img src="https://raw.githubusercontent.com/leenah-alborsh/leenah-alborsh/output/snake.svg" alt="snake animation" /> </p>
-
----
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:b983ff,100:7aa2ff&height=140&section=footer" /> </p> <h3 align="center">⭐ Always Learning | Always Building 💜</h3> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:b983ff,100:7aa2ff&height=140&section=footer" /> </p> <h3 align="center">⭐ Always Learning | Always Building 💜</h3> 
