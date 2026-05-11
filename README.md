@@ -1,86 +1,72 @@
+<br clear="both">
 
+<h2 align="center">
+  "Computer Science is no more about computers than astronomy is about telescopes."<br>
+  - Edsger W. Dijkstra
+</h2>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:b983ff,100:7aa2ff&height=220&section=header&text=Leenah%20Alborsh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=18" />
-</p>
+<hr>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=E879F9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I%27m+Leenah+Alborsh;Software+Development+Student+at+IUG;Aspiring+Full-Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+MySQL;Always+Learning+%7C+Always+Building+%F0%9F%92%9C" />
-</p>
+<div align="center">
+  <img height="520" src="https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif" alt="calm night room gif" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/From-Gaza-ff7eb3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-b983ff?style=for-the-badge" />
-</p>
+###
 
-<p align="center">
-  <a href="mailto:leenahalborsh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-leenahalborsh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=220&section=header&text=Leenah%20Alborsh&fontSize=52&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=18" alt="header banner" />
+</div>
+
+###
+
+<div align="center">
+  <a href="mailto:leenahalborsh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=8B5CF6" height="30" alt="gmail badge" />
   </a>
   <a href="https://www.linkedin.com/in/leenah-alborsh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Leenah%20Alborsh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" height="30" alt="linkedin badge" />
   </a>
   <a href="https://github.com/leenah-alborsh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-leenah--alborsh-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E2E8F0" height="30" alt="github badge" />
   </a>
-</p>
+</div>
 
----
+###
 
-## 💫 About Me
+<h1 align="center">Hi, I'm Leenah</h1>
 
-🎓 **Software Development Student** at **Islamic University of Gaza (IUG)**  
-💻 I build modern **Full-Stack Web Applications** with clean UI and scalable backend  
-🌱 Currently improving **backend architecture**, **APIs**, and **best practices**  
-🤝 Open to **internships**, **collaboration**, and building real-world projects  
+<h3 align="center">A software development student who enjoys clean interfaces and building meaningful web experiences</h3>
 
----
+<img align="right" height="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFmOWxwOWV2enQ1ZGRjYjhvY2c1b2M4a3ltdW9tcGF4OWx1bnlxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QssGEmpkyEOhBCb7e1/giphy.gif" alt="desk setup gif" />
 
-## 🧰 Tech Stack (My Toolkit)
+<h4 align="left">
+  - Software Development Student at the Islamic University of Gaza<br><br>
+  - Interested in Frontend and Full-Stack Development<br><br>
+  - Currently improving my skills in React, Node.js, APIs, and databases<br><br>
+  - I enjoy turning ideas into clean, useful, and visually pleasing projects<br><br>
+  - Reach me at: leenahalborsh@gmail.com
+</h4>
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+###
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-ff7eb3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT%20Auth-b983ff?style=for-the-badge"/>
-</p>
+<h2 align="left">Tech Stack</h2>
 
-### 🗄 Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=7" alt="tech stack icons" />
+</div>
 
-### 🛠 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+###
 
-
----
-
-## ✨ Current Focus
+<h2 align="left">Current Focus</h2>
 
 ```diff
-+ Building Full-Stack Projects (React + Node.js)
-+ Improving API design & backend structure
-+ Writing clean, maintainable code
++ Building polished full-stack projects with a calm visual touch
++ Improving backend logic and API design step by step
++ Practicing clean code, better structure, and thoughtful UI details
 ```
----
 
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:b983ff,100:7aa2ff&height=160&section=footer&text=⭐%20Always%20Learning%20%7C%20Always%20Building%20💜&fontSize=20&fontColor=ffffff&animation=fadeIn" />
-</p>
+###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontSize=24&fontColor=E2E8F0&animation=fadeIn" alt="footer banner" />
+</div>
